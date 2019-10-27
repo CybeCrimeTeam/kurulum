@@ -9,7 +9,7 @@ Bu Script Termuxu İlk Kuranlar İçin Hazirlanmistir.
 
 2.pkg install git
 
-3.git clone https://github.com/CyberCrimeTeam/kurulum
+3.git clone https://github.com/CybeCrimeTeam/kurulum
 
 4.cd kurulum
 
@@ -19,4 +19,4 @@ Bu Script Termuxu İlk Kuranlar İçin Hazirlanmistir.
 
 7.rm kurulum -rf
 
-CCT Sunar...
+CCT Sunar....
