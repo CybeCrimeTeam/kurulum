@@ -1,4 +1,4 @@
-#İlk Kurulum
+#kurulum
 
 Merhaba Sevgili CCT Ailesi! 
 Bu Script Termuxu İlk Kuranlar İçin Hazirlanmistir.
